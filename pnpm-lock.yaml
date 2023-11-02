@@ -12,8 +12,8 @@ dependencies:
     specifier: ^2.0.0
     version: 2.0.0
   formsnap:
-    specifier: ^0.2.0
-    version: 0.2.0(svelte@4.2.2)(sveltekit-superforms@1.8.0)(zod@3.22.4)
+    specifier: ^0.4.0
+    version: 0.4.0(svelte@4.2.2)(sveltekit-superforms@1.8.0)(zod@3.22.4)
   lucide-svelte:
     specifier: ^0.288.0
     version: 0.288.0(svelte@4.2.2)
@@ -1297,8 +1297,8 @@ packages:
       tabbable: 6.2.0
     dev: false
 
-  /formsnap@0.2.0(svelte@4.2.2)(sveltekit-superforms@1.8.0)(zod@3.22.4):
-    resolution: {integrity: sha512-/V6HQTdRCNrDDCvSJVkBl/co0v8D0DkQoAdQCPKZaRagYie1S267BVrpPXmXq2cSj0MH6IvQWojLcTpkEfB9Uw==}
+  /formsnap@0.4.0(svelte@4.2.2)(sveltekit-superforms@1.8.0)(zod@3.22.4):
+    resolution: {integrity: sha512-CiBQ6kHP87JQelkoMFz0Qcin73nqa8bKzqvpvi+tKq3PBvc6Ly05eVZZbxRKFU6fk8CbhuK4LBNhXl2cCzZu8g==}
     peerDependencies:
       svelte: ^4.0.0
       sveltekit-superforms: ^1.7.1
